@@ -1,71 +1,188 @@
 ## 🎮 Site de Venda de Hardware para Computadores Gamers
 
-![Badge HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Badge CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Badge JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Badge Flexbox](https://img.shields.io/badge/layout-flexbox-blue?style=flat-square)
+*E-commerce Front-end desenvolvido com apoio de IA*
 
-Projeto desenvolvido durante a Masterclass da Imersão Front-End com IA da Alura.
+![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Design-Responsive-7952B3)
+![AI Assisted](https://img.shields.io/badge/Development-AI%20Assisted-8A2BE2)
+![Alura](https://img.shields.io/badge/Alura-Imersão%20Front--End-0A3871)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-A proposta foi criar, em aproximadamente 20 minutos, um site de venda de hardware para gamers, utilizando ferramentas de front-end com apoio de inteligência artificial.
+Projeto desenvolvido durante a **Masterclass da Imersão Front-End com IA da Alura**.
 
-## 🚀 Objetivo
+O desafio propôs a construção, em aproximadamente **20 minutos**, de uma interface 
+de e-commerce voltada ao mercado de hardware gamer, utilizando tecnologias 
+fundamentais do desenvolvimento Front-end com apoio de ferramentas de Inteligência 
+Artificial.
 
-Construir rapidamente uma interface de e-commerce focada no público gamer, apresentando produtos de hardware com layout moderno e responsivo.
+Mais do que construir uma loja completa, o objetivo foi experimentar como a IA pode 
+acelerar processos de **prototipação e desenvolvimento de interfaces web**.
 
-O projeto demonstra :
+---
 
-- Estrutura básica de um site de e-commerce
-- Uso de HTML, CSS e JavaScript
-- Organização de componentes visuais
-- Aplicação de IA para acelerar o desenvolvimento
+## 🎯 Objetivo
 
-## 🛠️ Tecnologias Utilizadas
+Desenvolver rapidamente um protótipo visual de e-commerce para produtos de hardware, 
+aplicando:
 
-- HTML5
-- CSS3
+- HTML semântico
+- Estilização com CSS
 - JavaScript
-- Ferramentas de IA para geração de código
-- Git & GitHub
+- Organização visual
+- Desenvolvimento Front-end
+- Prototipação rápida
+- IA como apoio ao desenvolvimento
 
-## 📂 Estrutura do Projeto
+---
+
+## 🛒 Conceito
+
+A interface foi concebida para representar uma loja especializada em componentes 
+e equipamentos para computadores gamers.
+
+A experiência apresenta produtos como:
+
+- GPUs
+- CPUs
+- Componentes
+- Periféricos
+- Hardware gamer
+
+O foco desta versão está na **experiência visual e prototipação Front-end**.
+
+---
+
+## ✨ Funcionalidades Demonstradas
+
+- Exibição de produtos
+- Interface inspirada em e-commerce
+- Organização visual dos produtos
+- Interações utilizando JavaScript
+- Estilização voltada ao universo gamer
+- Estrutura preparada para futuras funcionalidades
+
+---
+
+## ⚡ Desenvolvimento Acelerado com IA
+
+Um dos principais objetivos da Masterclass foi experimentar a utilização da 
+Inteligência Artificial como ferramenta de apoio ao desenvolvimento.
+
+O fluxo utilizado pode ser representado por :
+
+```text
+Ideia
+  ↓
+Prompt / Instrução
+  ↓
+IA Generativa
+  ↓
+Código Inicial
+  ↓
+Análise e Ajustes
+  ↓
+HTML + CSS + JavaScript
+  ↓
+Protótipo
 
 ```
+
+A IA atua como **acelerador do processo de desenvolvimento**, enquanto decisões 
+sobre estrutura, interface e ajustes permanecem parte do trabalho do desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias
+
+**HTML5** - Estrutura da aplicação
+
+**CSS3** - Design e estilização 
+
+**JavaScript** - Interatividade
+
+**IA Generativa** - Apoio à prototipação e geração de código
+
+**Git** - Versionamento
+
+**GitHub** - Repositório e documentação
+
+---
+
+## 📂 Estrutura
+
+```text
+Site-de-Venda-de-Hardware-para-Computadores-Gamers/
+│
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 ```
+---
 
-## 🖥️ Funcionalidades
+## 💡 Competências Demonstradas
 
-- Exibição de produtos gamer (ex: GPUs, CPUs, periféricos)
-- Layout inspirado em lojas de hardware e tecnologia
-- Interface visual voltada ao público gamer
-- Estrutura preparada para expansão futura (carrinho, filtros, etc.)
+- HTML5
+- CSS3
+- JavaScript
+- Front-end Development
+- Prototipação rápida
+- UI Design
+- Desenvolvimento assistido por IA
+- Prompt Engineering aplicado ao desenvolvimento
+- Git e GitHub
 
-## 📚 Aprendizados
+---
 
-- Como prototipar rapidamente interfaces web
-- Como usar IA para acelerar o desenvolvimento front-end
-- Estruturação de projetos simples para portfólio
-- Práticas básicas de organização de código
+## 🚀 Possíveis Evoluções
 
-## 📌 Melhorias Futuras
+O protótipo pode evoluir com:
 
-- Criar página individual de produto
-- Adicionar integração com API de produtos
-- Implementar responsividade avançada
-- Adicionar modo dark gamer
+- Carrinho de compras
+- Filtros por categoria
+- Busca de produtos
+- Página individual de produto
+- Responsividade avançada
+- Integração com API
+- Backend
+- Banco de dados
+- Autenticação
+- Persistência do carrinho
+- Checkout demonstrativo
+
+---
+
+## 🎓 Contexto Acadêmico
+
+Projeto desenvolvido durante a **Masterclass da Imersão Front-End com IA — Alura**.
+
+O desafio consistiu em criar rapidamente uma aplicação Front-end utilizando 
+Inteligência Artificial como ferramenta de apoio ao desenvolvimento.
+
+---
 
 ## 🙏 Agradecimentos
 
 - Alura
 - Prof. Guilherme Lima 
 
-## Autor
+---
 
-Marcus Guedes
+## 👨‍💻 Autor
 
-- Linkedin : https://www.linkedin.com/in/marcusguedes/
-- GitHub : https://github.com/MCLG1661
+**Marcus Guedes**
+
+Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
+
+GitHub: MCLG1661 
+
+LinkedIn: Marcus Guedes
+
+---
+
+🎮 **Da ideia ao protótipo: Front-end acelerado por Inteligência Artificial.**
+
+
+
