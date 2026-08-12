@@ -24,7 +24,7 @@ acelerar processos de **prototipação e desenvolvimento de interfaces web**.
 
 ## 🖥️ Preview da Aplicação
 
-<img width="1000" height="500" alt="Captura de tela 2026-08-12 145938" src="https://github.com/user-attachments/assets/2c3203a9-7fab-48c2-9096-c63697f17b3d" />
+<img width="800" height="400" alt="Captura de tela 2026-08-12 145938" src="https://github.com/user-attachments/assets/2c3203a9-7fab-48c2-9096-c63697f17b3d" />
 
 
 ## 🌐 Live Demo
