@@ -30,7 +30,7 @@ acelerar processos de **prototipação e desenvolvimento de interfaces web**.
 
 ## 🌐 Live Demo
 
-🚀 **[Acesse a aplicação](URL-DA-GITHUB-PAGES)**
+🚀 **[Acesse a aplicação]( https://mclg1661.github.io/Site-de-Vendas/)**
 
 ---
 
