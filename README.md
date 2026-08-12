@@ -24,7 +24,7 @@ acelerar processos de **prototipação e desenvolvimento de interfaces web**.
 
 ## 🖥️ Preview da Aplicação
 
-<img width="1536" height="1024" alt="ChatGPT Image 12 de ago  de 2026, 14_41_54" src="https://github.com/user-attachments/assets/2af13071-fd90-42e4-a578-83cd66ece9ce" />
+<img width="1000" height="500" alt="ChatGPT Image 12 de ago  de 2026, 14_41_54" src="https://github.com/user-attachments/assets/2af13071-fd90-42e4-a578-83cd66ece9ce" />
 
 ---
 
