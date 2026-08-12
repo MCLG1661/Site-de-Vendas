@@ -24,7 +24,7 @@ acelerar processos de **prototipação e desenvolvimento de interfaces web**.
 
 ## 🖥️ Preview da Aplicação
 
- ![gamer](https://mclg1661.github.io/Site-de-Vendas/)
+ 
 
 ## 🌐 Live Demo
 
