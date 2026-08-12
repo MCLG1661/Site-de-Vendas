@@ -24,13 +24,11 @@ acelerar processos de **prototipação e desenvolvimento de interfaces web**.
 
 ## 🖥️ Preview da Aplicação
 
-<img width="1000" height="500" alt="ChatGPT Image 12 de ago  de 2026, 14_41_54" src="https://github.com/user-attachments/assets/2af13071-fd90-42e4-a578-83cd66ece9ce" />
-
----
+ ![gamer](https://mclg1661.github.io/Site-de-Vendas/)
 
 ## 🌐 Live Demo
 
-🚀 **[Acesse a aplicação]( https://mclg1661.github.io/Site-de-Vendas/)**
+🚀 **[Acesse a aplicação](https://mclg1661.github.io/Site-de-Vendas/)**
 
 ---
 
