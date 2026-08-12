@@ -24,7 +24,11 @@ acelerar processos de **prototipação e desenvolvimento de interfaces web**.
 
 ## 🖥️ Preview da Aplicação
 
-![Site](https://mclg1661.github.io/Site-de-Vendas/) 
+<p align="center">
+  <img src="https://mclg1661.github.io/Site-de-Vendas/"
+       alt="Gamer Hardware Store — Preview da aplicação"
+       width="850">
+</p>
 
 ## 🌐 Live Demo
 
